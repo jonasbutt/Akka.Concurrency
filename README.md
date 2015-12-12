@@ -1,2 +1,2 @@
 # Akka.Concurrency
-Akka.NET based concurrency helpers and extensions.
+Akka.NET based concurrency helper: IConcurrencyHelper.
